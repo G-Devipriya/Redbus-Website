@@ -17,7 +17,7 @@ Streamlit: A framework for creating interactive web applications.
 
 Pandas: A data manipulation and analysis library.
 
-Mysql: Storing the scraped data and utilizing while using Streamlit filtration process
+Mysql: Storing the scraped data and utilizing while using Streamlit filtration process.
 
 ## Requirements.txt
 
