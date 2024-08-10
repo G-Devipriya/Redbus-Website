@@ -19,7 +19,7 @@ Pandas: A data manipulation and analysis library.
 
 Mysql: Storing the scraped data and utilizing while using Streamlit filtration process
 
-Requirements.txt
+## Requirements.txt
 
 1. selenium
 2. datetime
