@@ -20,11 +20,12 @@ Pandas: A data manipulation and analysis library.
 Mysql: Storing the scraped data and utilizing while using Streamlit filtration process
 
 Requirements.txt
-selenium
-datetime
-pandas
-sqlalchemy
-pymysql
-streamlit
+
+1. selenium
+2. datetime
+3. pandas
+4. sqlalchemy
+5. pymysql
+6. streamlit
 
 Please check above libraries before start this project.
