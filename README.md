@@ -1,4 +1,4 @@
-## Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit
+# Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit
 LinkedIn : www.linkedin.com/in/g-devipriya
 
 Problem Statement:
